@@ -1,10 +1,11 @@
 package Variable;
 
 public class Premitive {
+	static int integervariable;         //Global Variable
 	 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int integervariable=1200;
+	
 //-2,147,483,648 to 2,147,483,647
     System.out.println("Integervarible: " + integervariable);
     
@@ -12,7 +13,7 @@ public class Premitive {
     System.out.println("Bytevariable: " + bytevariable);
     
   
-    float floatvari=1.3f;
+    float floatvari=1.3f;          //Local variable
     System.out.println("float Variable: " +floatvari);
     
     double doublevari=155.26;
