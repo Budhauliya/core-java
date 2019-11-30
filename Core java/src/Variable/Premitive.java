@@ -1,16 +1,17 @@
 package Variable;
 
 public class Premitive {
-
+	 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    int integervariable=1200;//-2,147,483,648 to 2,147,483,647
+		int integervariable=1200;
+//-2,147,483,648 to 2,147,483,647
     System.out.println("Integervarible: " + integervariable);
     
     byte bytevariable=15; //-128 to 127
     System.out.println("Bytevariable: " + bytevariable);
     
-    
+  
     float floatvari=1.3f;
     System.out.println("float Variable: " +floatvari);
     
@@ -30,8 +31,7 @@ public class Premitive {
     System.out.println("Boolean Variable: " +booleanvari);
     
   
-    
-
+   
 	}
 
 
