@@ -10,6 +10,7 @@ public class Premitive {
     byte bytevariable=15; //-128 to 127
     System.out.println("Bytevariable: " + bytevariable);
     
+    
     float floatvari=1.3f;
     System.out.println("float Variable: " +floatvari);
     
@@ -28,7 +29,7 @@ public class Premitive {
     boolean booleanvari=true;
     System.out.println("Boolean Variable: " +booleanvari);
     
-    
+  
     
 
 	}
